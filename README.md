@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmartinez237&label=Profile%20views&color=0e75b6&style=flat" alt="gmartinez237" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gmartinez237" alt="gmartinez237" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando **na Superintendência de Gestão da Informação**
 
 - 📫 Fale comigo em **guilherme.martinez067@gmail.com**
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmartinez237&show_icons=true&locale=en" alt="gmartinez237" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmartinez237&" alt="gmartinez237" /></p>
+
+
