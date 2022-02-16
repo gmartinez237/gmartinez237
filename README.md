@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou o Guilherme</h1>
-<h3 align="center">Um desenvolvedor Python com foco na ciência de dados</h3>
+<h3 align="center">Um desenvolvedor Python em formação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gmartinez237&label=Profile%20views&color=0e75b6&style=flat" alt="gmartinez237" /> </p>
 
