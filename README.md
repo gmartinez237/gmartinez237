@@ -9,7 +9,7 @@
 
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/guilherme-romeiro-martinez-a768211b7](https://www.linkedin.com/in/guilherme-romeiro-martinez-a768211b7)
 
-- ⚡ Curiosidade sobre mim **Amo futebol e jogos de FPS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
